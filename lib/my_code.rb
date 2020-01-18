@@ -20,6 +20,6 @@
 # my(-1) do |total|
 #   return total
 # end
-def map
+def map(array)
   
 end

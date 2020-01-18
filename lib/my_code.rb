@@ -20,3 +20,6 @@
 # my(-1) do |total|
 #   return total
 # end
+def map
+  
+end

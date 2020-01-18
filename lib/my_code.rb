@@ -10,13 +10,13 @@
 # end 
 # negative_array
 
-def map(i)
-  array = []
-  total = i * array
-  yield(total)
-  total
-end
+# def map(i)
+#   array = []
+#   total = i * array
+#   yield(total)
+#   total
+# end
 
-my(-1) do |total|
-  return total
-end
+# my(-1) do |total|
+#   return total
+# end

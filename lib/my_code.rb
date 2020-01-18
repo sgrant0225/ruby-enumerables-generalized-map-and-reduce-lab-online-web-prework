@@ -10,13 +10,13 @@
 # end 
 # negative_array
 
-def my_own_map(i)
+def map(i)
   array = []
   total = i * array
   yield(total)
   total
 end
 
-my_own_map(-1) do |total|
+my(-1) do |total|
   return total
 end

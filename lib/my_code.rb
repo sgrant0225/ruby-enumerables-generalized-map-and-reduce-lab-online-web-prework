@@ -9,21 +9,3 @@ end
 negative_array
 end
 
-# def map(i)
-#   array = []
-#   total = i * array
-#   yield(total)
-#   total
-# end
-
-# my(-1) do |total|
-#   return total
-# end
-
-# def map(array)
-#   new_array = []
-#   yield(new_array)
-# end
-
-# # map(array) do |n| n * -1
-# # end

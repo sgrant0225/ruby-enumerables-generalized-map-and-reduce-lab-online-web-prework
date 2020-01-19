@@ -21,5 +21,6 @@
 #   return total
 # end
 def map(array)
+  new_array = []
   
 end

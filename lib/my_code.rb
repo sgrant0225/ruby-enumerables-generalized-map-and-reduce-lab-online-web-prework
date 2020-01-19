@@ -14,7 +14,7 @@ def reduce(array, start_value=nil) #start_value is optional so want it equal to 
   if start_value 
     total = start_value
     i = 0
-  else
+  else #if there isnt a starting point
     total = array[0]
     i = 1
 end  

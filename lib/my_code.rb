@@ -2,8 +2,8 @@
 def my_own_map(array)
 negative_array = []
 i = 0 
-while i < array.length do |i| 
-  i * -1
+while i < array.length do |n| 
+  n * -1
 end 
 i += 1
 end 

@@ -14,4 +14,6 @@ def reduce(array, start_value=nil)
   if start_value 
     num1 = start_value
     i = 0
+  else
+    num1 = 
 end  

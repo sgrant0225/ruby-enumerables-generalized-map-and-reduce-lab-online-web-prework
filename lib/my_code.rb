@@ -1,5 +1,5 @@
 # Your Code Here
-def my_own_map(array)
+def map(array)
 negative_array = []
 i = 0 
 while i < array.length do 

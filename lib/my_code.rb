@@ -4,7 +4,6 @@ negative_array = []
 i = 0 
 while i < array.length do |i| 
   i * -1
-  negative_array << i
 end 
 i += 1
 end 

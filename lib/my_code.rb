@@ -26,5 +26,5 @@ def map(array)
    yield(new_array)
 end
 
-map(new_array) do |n| n * -1
-end
+# map(array) do |n| n * -1
+# end

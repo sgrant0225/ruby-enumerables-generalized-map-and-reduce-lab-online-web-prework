@@ -1,4 +1,5 @@
 # Your Code Here
+
 def map(array)
 negative_array = []
 i = 0 

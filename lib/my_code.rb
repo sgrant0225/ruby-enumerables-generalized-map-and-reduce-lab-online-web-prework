@@ -10,6 +10,6 @@ end
 negative_array
 end
 
-def reduce(array) 
+def reduce(array, start_value=nil) 
   
 end  

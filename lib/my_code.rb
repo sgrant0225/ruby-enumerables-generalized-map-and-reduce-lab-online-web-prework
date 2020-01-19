@@ -26,3 +26,4 @@ def map(array)
    yield(n)
   n
 end
+map(array)

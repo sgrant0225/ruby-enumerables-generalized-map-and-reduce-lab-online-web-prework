@@ -1,14 +1,14 @@
 # Your Code Here
-# def my_own_map(negative_array)
-# negative_array = []
-# i = 0 
-# while i < negative_array.map do |i| 
-#   i * -1
-#   negative_array << i
-# end 
-# i += 1
-# end 
-# negative_array
+def my_own_map(array)
+negative_array = []
+i = 0 
+while i < negative_array.map do |i| 
+  i * -1
+  negative_array << i
+end 
+i += 1
+end 
+negative_array
 
 # def map(i)
 #   array = []
@@ -21,10 +21,10 @@
 #   return total
 # end
 
-def map(array)
-  new_array = []
-   yield(new_array)
-end
-
-# map(array) do |n| n * -1
+# def map(array)
+#   new_array = []
+#   yield(new_array)
 # end
+
+# # map(array) do |n| n * -1
+# # end

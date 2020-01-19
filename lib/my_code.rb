@@ -10,7 +10,7 @@ end
 negative_array
 end
 
-def reduce(array, start_value=nil) 
+def reduce(array, start_value=nil) #start_value is optional so want it equal to nil
   if start_value 
     total = start_value
     i = 0

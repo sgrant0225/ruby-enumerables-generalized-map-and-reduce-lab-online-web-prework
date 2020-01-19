@@ -2,7 +2,7 @@
 def my_own_map(array)
 negative_array = []
 i = 0 
-while i < negative_array.map do |i| 
+while i < negative_array.length do |i| 
   i * -1
   negative_array << i
 end 

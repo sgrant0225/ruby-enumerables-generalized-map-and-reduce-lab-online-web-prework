@@ -11,3 +11,5 @@ negative_array
 end
 
 def reduce 
+  
+end  

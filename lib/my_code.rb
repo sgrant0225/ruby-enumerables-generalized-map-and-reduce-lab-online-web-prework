@@ -23,8 +23,8 @@
 
 def map(array)
   new_array = []
-  n = -1
-   yield(n)
-  n
+   yield(new_array)
 end
-map(array) do |
+
+map(array) do |n| n * -1
+end

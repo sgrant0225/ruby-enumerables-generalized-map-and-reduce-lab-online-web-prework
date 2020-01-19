@@ -24,5 +24,5 @@ def map(array)
   new_array = []
   n = -1
    yield(n)
-  total
+  n
 end

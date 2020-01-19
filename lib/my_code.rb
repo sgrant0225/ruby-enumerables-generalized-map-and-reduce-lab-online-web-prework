@@ -10,3 +10,4 @@ end
 negative_array
 end
 
+def reduce 

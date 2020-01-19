@@ -22,5 +22,7 @@
 # end
 def map(array)
   new_array = []
-  
+  total = -1
+   yield(total)
+  total
 end

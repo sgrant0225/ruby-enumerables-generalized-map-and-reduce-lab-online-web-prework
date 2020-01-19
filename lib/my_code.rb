@@ -23,6 +23,6 @@
 def map(array)
   new_array = []
   n = -1
-   yield(total)
+   yield(n)
   total
 end

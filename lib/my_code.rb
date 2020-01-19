@@ -7,7 +7,7 @@ while i < array.length do |n|
 end 
 i += 1
 end 
-negative_array
+
 
 # def map(i)
 #   array = []

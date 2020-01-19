@@ -21,5 +21,5 @@ end
 
 while i < array.length 
 total = yield(total, array[i])
-
+i += 1
 end

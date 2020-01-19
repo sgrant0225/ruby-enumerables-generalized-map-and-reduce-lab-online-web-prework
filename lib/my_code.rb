@@ -13,10 +13,10 @@ end
 def reduce(array, start_value=nil) #start_value is optional so want it equal to nil
   if start_value 
     total = start_value
-    i = 0
+    i = 0 #first element of the array
   else #if there isnt a starting point
     total = array[0]
-    i = 1
+    i = 1 #2nd element of the array
 end  
 
 while i < array.length 
